@@ -1,8 +1,10 @@
 python-docx==0.8.11
 streamlit==1.27.0
 pandas==1.5.3
-numpy==1.23.5
+distutils
 scikit-learn==1.2.0
+setuptools>=68.0.0
+numpy>=1.24.0
 
 # Streamlit's dependencies (from your error logs)
 pygments==2.19.1
